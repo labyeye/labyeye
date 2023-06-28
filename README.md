@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there,👋 I'm Akash
 
-<!--
-**labyeye/labyeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools 🖥️ 
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,xd,pr,firebase,c,vscode,github&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🌱 I’m currently learning  ReactNative  
+- 🧪 INTERMEDIATE - XML, ReactNative, C
+
+<!-- ![](https://komarev.com/ghpvc/?username=AkashMadanu&style=flat-square) -->
+
+
+### Contact Me 📱
+
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/labh-bothra-a031b9191/)
