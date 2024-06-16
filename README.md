@@ -2,7 +2,7 @@
 
 ### Languages and Tools 🖥️ 
 
-[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,java,xd,pr,firebase,c,vscode,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,java,xd,js,firebase,c,vscode,github&theme=dark)](https://skillicons.dev)
 
  🌱 I’m currently learning  ReactNative  
 - 🧪 INTERMEDIATE - XML, ReactNative, C
