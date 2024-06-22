@@ -55,7 +55,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 ```javascript
 class WhoAmI {
     constructor() {
-        this.user = 'Naveen';
+        this.user = 'Labh';
         this.current_work = 'Writing code';
         this.hobbies = [
             'Gaming',
