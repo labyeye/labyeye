@@ -60,7 +60,7 @@ class WhoAmI {
         this.hobbies = [
             'Gaming',
             'Drawing',
-            'Watching Series',
+            'Video Editing',
         ];
     }
 
