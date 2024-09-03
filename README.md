@@ -61,6 +61,7 @@ class WhoAmI {
             'Gaming',
             'Drawing',
             'Video Editing',
+            'Photography'
         ];
     }
 
