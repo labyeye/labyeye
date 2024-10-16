@@ -24,7 +24,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 <b>Leetcode</b>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Labh_Bothra?theme=light&font=Gelasio)
+![Leetcode Stats]([https://leetcard.jacoblin.cool/Labh_Bothra?theme=dark&font=Gelasio](https://leetcard.jacoblin.cool/Labh_Bothra?theme=dark&font=Baumans&ext=heatmap))
 
 
 ### Socials
