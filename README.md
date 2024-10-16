@@ -34,8 +34,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 ### Badges
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=labyeye&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=labyeye&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=labyeye&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![labyeye's Stats](https://github-readme-stats.vercel.app/api?username=labyeye&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+![labyeye's Streak](https://github-readme-streak-stats.herokuapp.com/?user=labyeye&theme=vision-friendly-dark&hide_border=false)
+![labyeye's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=labyeye&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=labyeye&icon=0&color=0)](https://visitcount.itsvg.in)
