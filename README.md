@@ -8,7 +8,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [labhchandrabothra@gmail.com](mailto:labhchandrabothra@gmail.com)
-* 🤝  I'm open to collaborating on App Development Projects
+* 🤝  I'm open to collaborating on App Development Projects , Web Development and Game Development Projects
 
 
 
