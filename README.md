@@ -21,8 +21,8 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
   </a>
 </p>
 
-
-
+### Trophies
+https://github-profile-trophy.vercel.app/?labyeye=ryo-ma&theme=juicyfresh
 
 ### Socials
 
