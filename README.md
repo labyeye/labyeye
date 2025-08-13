@@ -25,7 +25,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 <p align="center">
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=labyeye&column=6&theme=onestar&no-frame=true&no-bg=true&title=Stars,Repositories,Experience,PullRequest,Commits,Followers" alt="shoob-cyber" />
+    <img src="https://github-profile-trophy.vercel.app/?username=labyeye&theme=juicyfresh" alt="labyeye" />
   </a> 
 </p>
 </p>
