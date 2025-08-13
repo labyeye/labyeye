@@ -17,7 +17,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,express,firebase,git,github,html,java,js,mongodb,mysql,nodejs,npm,react" />
+    <img src="https://skillicons.dev/icons?i=c,css,express,firebase,git,github,html,java,js,mongodb,mysql,nodejs,npm,react,aws,azure,gcp,ts,unity,xd,tailwind" />
   </a>
 </p>
 
