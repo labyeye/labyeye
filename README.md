@@ -22,8 +22,13 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 </p>
 
 ### Trophies
-https://github-profile-trophy.vercel.app/?labyeye=ryo-ma&theme=juicyfresh
-
+<p align="center">
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=labyeye&column=6&theme=onestar&no-frame=true&no-bg=true&title=Stars,Repositories,Experience,PullRequest,Commits,Followers" alt="shoob-cyber" />
+  </a> 
+</p>
+</p>
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/labh-bothra-a031b9191/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
