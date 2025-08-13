@@ -1,42 +1,55 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Labh Bothra
-================================================================================================================================
+### 👋 Hello there, I'm Labh Bothra\!
 
-Full Stack Developer
----------------------------------------------
+I'm a passionate **Full Stack Developer** from Bangalore, India, dedicated to crafting exceptional digital experiences. My enthusiasm for coding is unwavering—Ctrl + Alt + Del may not work on my passion, but my projects always get the job done. I'm actively seeking opportunities to collaborate on innovative app, web, and game development projects.
 
-Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so do amazing projects.
+-----
 
-* 🌍  I'm based in Bangalore, India
-* ✉️  You can contact me at [labhchandrabothra@gmail.com](mailto:labhchandrabothra@gmail.com)
-* 🤝  I'm open to collaborating on App Development Projects , Web Development and Game Development Projects
+### 🛠️ Skills & Expertise
 
+I specialize in building robust and scalable applications using a diverse range of technologies. My stack includes:
 
+\<p align="left"\>
+  \<a href="[https://skillicons.dev](https://skillicons.dev)"\>
+    \<img src="[https://skillicons.dev/icons?i=aws,azure,gcp,bootstrap,c,css,express,firebase,git,github,html,java,js,mongodb,mysql,nodejs,npm,react](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,azure,gcp,bootstrap,c,css,express,firebase,git,github,html,java,js,mongodb,mysql,nodejs,npm,react)" alt="Skills" /\>
+  \</a\>
+\</p\>
 
-### Skills
+  - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap
+  - **Backend:** Node.js, Express.js
+  - **Databases:** MongoDB, MySQL, Firebase
+  - **Languages:** JavaScript, Java, C
+  - **Cloud & DevOps:** AWS, Azure, Google Cloud Platform (GCP), Git, GitHub
 
+-----
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,express,firebase,git,github,html,java,js,mongodb,mysql,nodejs,npm,react" />
-  </a>
-</p>
+### 🏆 GitHub Highlights
 
-### Trophies
-<p align="center">
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=labyeye&theme=juicyfresh" alt="labyeye" />
-  </a> 
-</p>
-</p>
-### Socials
+\<p align="center"\>
+  \<a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)"\>
+    \<img src="[https://github-profile-trophy.vercel.app/?username=labyeye\&theme=juicyfresh](https://github-profile-trophy.vercel.app/?username=labyeye&theme=juicyfresh)" alt="GitHub Trophies" /\>
+  \</a\>
+\</p\>
 
-<p align="left"> <a href="https://www.linkedin.com/in/labh-bothra-a031b9191/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+-----
 
-### Badges
+### 📈 My GitHub Stats
 
-# 📊GitHub Stats :
-![labyeye's Stats](https://github-readme-stats.vercel.app/api?username=labyeye&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
-![labyeye's Streak](https://github-readme-streak-stats.herokuapp.com/?user=labyeye&theme=vision-friendly-dark&hide_border=false)</br>
-![labyeye's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=labyeye&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)</br>
-[![](https://visitcount.itsvg.in/api?id=labyeye&icon=0&color=0)](https://visitcount.itsvg.in)
+\<p align="center"\>
+  \<img src="[https://github-readme-stats.vercel.app/api?username=labyeye\&theme=vision-friendly-dark\&show\_icons=true\&hide\_border=false\&count\_private=true](https://github-readme-stats.vercel.app/api?username=labyeye&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)" alt="GitHub Stats" /\>
+\</p\>
+\<p align="center"\>
+  \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=labyeye\&theme=vision-friendly-dark\&hide\_border=false](https://github-readme-streak-stats.herokuapp.com/?user=labyeye&theme=vision-friendly-dark&hide_border=false)" alt="GitHub Streak" /\>
+\</p\>
+\<p align="center"\>
+  \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=labyeye\&theme=vision-friendly-dark\&show\_icons=true\&hide\_border=false\&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=labyeye&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)" alt="Top Languages" /\>
+\</p\>
+
+-----
+
+### 🌐 Connect & Collaborate
+
+  - **Location:** Bangalore, India
+  - **Email:** [labhchandrabothra@gmail.com](mailto:labhchandrabothra@gmail.com)
+  - **LinkedIn:** [linkedin.com/in/labh-bothra-a031b9191](https://www.linkedin.com/in/labh-bothra-a031b9191/)
+
+[](https://www.google.com/search?q=%5Bhttps://visitcount.itsvg.in%5D\(https://visitcount.itsvg.in\))
